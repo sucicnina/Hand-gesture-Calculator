@@ -1,3 +1,4 @@
+[🇬🇧 English](README.md) | 🇭🇷 Hrvatski
 # Hand Gesture Calculator
 Projekt iz kolegija:Robotski vid 
 
@@ -40,6 +41,9 @@ Svaki unos potrebno je držati mirno **1,5 sekunde** da bi se potvrdio. Traka na
 ---
 
 ## Pokretanje
+
+git clone https://github.com/sucicnina/Hand-gesture-Calculator.git
+cd Hand-gesture-Calculator/project
 
 ### Preduvjeti
 
